@@ -8,4 +8,4 @@ Ms.Sununta Labaiusuh. Bachelor's degree in Information Science and Technology Ma
 
 Ms.Sununta Labaiusuh. Joined Be.You.Solution Ltd. in 2017.
 
-His hobbies, Watch a movie. 
+His hobbies, Watch a movie.
