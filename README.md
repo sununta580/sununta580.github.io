@@ -2,7 +2,7 @@
 
 Biography
 
-![](sununta.jpg "Ms.Sununta Labaiusuh")
+![](sununta1.jpg "Ms.Sununta Labaiusuh")
 
 Ms.Sununta Labaiusuh. Bachelor's degree in Information Science and Technology Mahanakorn University of Technology in 2010.
 
