@@ -1,6 +1,6 @@
 # sununta580.github.io NEIS0736
 
-### **Biography Ms.Sununta Labaiusuh**
+### **Ms.Sununta Labaiusuh**
 
 ![](sununta.jpg "Ms.Sununta Labaiusuh")
 
@@ -10,4 +10,4 @@
 
 - Ms.Sununta Labaiusuh. Joined Be.You.Solution Ltd. in 2017.
 
-- His hobbies, Watch a movie.
+- My hobby is watching movies.
