@@ -12,7 +12,8 @@
 #### Technical Skill
 
 |- **Languages:**   |- **.NET Technology:** |
-|  - Python	    | 	- VB.NET
+| ----------------- |-----------------------|
+|  - Python	    | 	- VB.NET	    |   	
 |  - SQL	    | 	
 |  - Shell Script   |
 
