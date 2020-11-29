@@ -11,12 +11,12 @@
 
 #### Technical Skill
 
-- **Languages:**
-  - Python
-  - SQL
-  - Shell Script
-- **.NET Technology:**
-  - VB.NET
-- **Database Systems:**
+|- **Languages:**   |- **.NET Technology:** |
+|  - Python	    | 	- VB.NET
+|  - SQL	    | 	
+|  - Shell Script   |
+
+  
+|- **Database Systems:**
   - SQL Server
   - MySQL
