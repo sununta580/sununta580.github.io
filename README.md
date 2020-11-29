@@ -10,7 +10,6 @@
 - Ms.Sununta Labaiusuh. Joined Be.You.Solution Ltd. in 2017.
 
 #### Technical Skill
-
 |    Languages      |    .NET Technology    |   Database Systems     |
 | ----------------- |-----------------------| ---------------------- |
 |  - Python	    | 	- VB.NET	    |   - SQL Server	     |
