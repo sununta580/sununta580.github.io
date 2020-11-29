@@ -9,4 +9,13 @@
 
 - Ms.Sununta Labaiusuh. Joined Be.You.Solution Ltd. in 2017.
 
-- My hobby is watching movies.
+#### Technical Skill
+- **Languages:**
+  - Python
+  - SQL
+  - Shell Script
+- **.NET Technology:**
+  - VB.NET
+- **Database Systems:**
+  - SQL Server
+  - MySQL
