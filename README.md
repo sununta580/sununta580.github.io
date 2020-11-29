@@ -10,6 +10,7 @@
 - Ms.Sununta Labaiusuh. Joined Be.You.Solution Ltd. in 2017.
 
 #### Technical Skill
+
 - **Languages:**
   - Python
   - SQL
