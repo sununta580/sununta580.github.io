@@ -1,5 +1,3 @@
-# sununta580.github.io NEIS0736
-
 ### **Ms.Sununta Labaiusuh**
 
 ![](sununta.jpg "Ms.Sununta Labaiusuh")
