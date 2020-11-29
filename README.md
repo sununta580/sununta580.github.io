@@ -11,7 +11,7 @@
 
 #### Technical Skill
 
-|  **Languages**    |    .NET Technology    | **Database Systems **  |
+|  **Languages      |    .NET Technology    |   Database Systems **  |
 | ----------------- |-----------------------| ---------------------- |
 |  - Python	    | 	- VB.NET	    |   - SQL Server	     |
 |  - SQL	    | 	                    |    - MySQL             |
